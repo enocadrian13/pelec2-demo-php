@@ -1,0 +1,17 @@
+F:\Repo\WinApps\business-application-win\business-application-win\bin\Debug\net10.0-windows\business-application-win.exe
+F:\Repo\WinApps\business-application-win\business-application-win\bin\Debug\net10.0-windows\business-application-win.deps.json
+F:\Repo\WinApps\business-application-win\business-application-win\bin\Debug\net10.0-windows\business-application-win.runtimeconfig.json
+F:\Repo\WinApps\business-application-win\business-application-win\bin\Debug\net10.0-windows\business-application-win.dll
+F:\Repo\WinApps\business-application-win\business-application-win\bin\Debug\net10.0-windows\business-application-win.pdb
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business_application_win.Form1.resources
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.csproj.GenerateResource.cache
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.AssemblyInfoInputs.cache
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.AssemblyInfo.cs
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.csproj.CoreCompileInputs.cache
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.sourcelink.json
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.dll
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\refint\business-application-win.dll
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.pdb
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\business-application-win.genruntimeconfig.cache
+F:\Repo\WinApps\business-application-win\business-application-win\obj\Debug\net10.0-windows\ref\business-application-win.dll
